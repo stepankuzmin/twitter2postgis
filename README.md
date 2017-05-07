@@ -1,5 +1,7 @@
 # Twitter 2 PostGIS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stepankuzmin/twitter2postgis.svg)](https://greenkeeper.io/)
+
 Example app that saves twits with location into PostGIS database
 
 ## Usage
